@@ -45,7 +45,7 @@
 
 * ##### 🔑 ApiKey
 
-![image]()
+![image](\blob\data\img_ejemplo\api_key.jpg)
 
 * ##### 🧰 Comandos
 
