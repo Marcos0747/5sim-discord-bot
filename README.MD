@@ -45,15 +45,15 @@
 
 * ##### 🔑 ApiKey
 
-![image](\main\data\img_ejemplo\api_key.jpg)
+![image](\data\img_ejemplo\api_key.jpg)
 
 * ##### 🧰 Comandos
 
-![image](\main\data\img_ejemplo\todos_cmds.jpg)
+![image](\data\img_ejemplo\todos_cmds.jpg)
 
 * ##### 📦 Ejemplo de uso
 
-![image](\main\data\img_ejemplo\vista_previa.jpg)
+![image](\data\img_ejemplo\vista_previa.jpg)
 
 ***
 #### 👮‍♂️ Responsabilidad
