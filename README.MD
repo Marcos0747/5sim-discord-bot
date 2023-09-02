@@ -45,7 +45,7 @@
 
 * ##### 🔑 ApiKey
 
-![image](\data\img_ejemplo\api_key.jpg)
+![image](5sim-discord-bot\data\img_ejemplo\api_key.jpg)
 
 * ##### 🧰 Comandos
 
