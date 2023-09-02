@@ -22,17 +22,17 @@
 
 #### 📋 Características
 
-* 💻 [Instalador de dependencias instantáneo.](install.bat)
+* 💻 Instalador de dependencias instantáneo.
 * ⚙️ Configuración rápida.
-* 📀 Sistema de loggeos  ([mensajes](data\logs\logs_mensajes.txt) y [comando buy](data\loggers.py)).
-* 🚀 [Inicio instantáneo.](start.bat)
-* 👤 [Presencia y estado del bot configurable.](config.py)
+* 📀 Sistema de loggeos.
+* 🚀 Inicio instantáneo.
+* 👤 Presencia y estado del bot configurable.
 * 🪛 Prefijos múltiples.
 * 🌺 Comandos decorados con embeds.
 
 - [x] 10 comandos disponibles.
-- [ ] 🛒 [sistema de sellix disponible](sellix\README.MD).
-- [ ] 🛒 [sistema de sellpass disponible](sellpass\README.MD).
+- [ ] 🛒 sistema de sellix disponible.
+- [ ] 🛒 sistema de sellpass disponible.
 ***
 ##### 💖 Si quieres apoyar a este proyecto puedes dar 1 estrella a este repositorio y hacer una donación de litecoin:
 
@@ -45,15 +45,15 @@
 
 * ##### 🔑 ApiKey
 
-![image](5sim-discord-bot\data\img_ejemplo\api_key.jpg)
+! [image](5sim-discord-bot\data\img_ejemplo\api_key.jpg)
 
 * ##### 🧰 Comandos
 
-![image](\data\img_ejemplo\todos_cmds.jpg)
+! [image](\data\img_ejemplo\todos_cmds.jpg)
 
 * ##### 📦 Ejemplo de uso
 
-![image](\data\img_ejemplo\vista_previa.jpg)
+! [image](\data\img_ejemplo\vista_previa.jpg)
 
 ***
 #### 👮‍♂️ Responsabilidad
