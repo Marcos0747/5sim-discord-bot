@@ -45,15 +45,15 @@
 
 * ##### 🔑 ApiKey
 
-! [image](5sim-discord-bot\data\img_ejemplo\api_key.jpg)
+[image](5sim-discord-bot\data\img_ejemplo\api_key.jpg)
 
 * ##### 🧰 Comandos
 
-! [image](\data\img_ejemplo\todos_cmds.jpg)
+[image](\data\img_ejemplo\todos_cmds.jpg)
 
 * ##### 📦 Ejemplo de uso
 
-! [image](\data\img_ejemplo\vista_previa.jpg)
+[image](\data\img_ejemplo\vista_previa.jpg)
 
 ***
 #### 👮‍♂️ Responsabilidad
