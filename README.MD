@@ -38,7 +38,7 @@
 
 - [x] _LQCqPAUfviHyuZYDo2MzahgCky4wKAonHG_
 ***
-####⭐ *Gracias a [Plaraje](https://github.com/plaraje) por proporcionarme el "handler" utilizado en el archivo [`main.py`](main.py) y su librería [Chromify](https://github.com/plaraje/Chromify).*
+##### ⭐ *Gracias a [Plaraje](https://github.com/plaraje) por proporcionarme el "handler" utilizado en el archivo [`main.py`](main.py) y su librería [Chromify](https://github.com/plaraje/Chromify).*
 
 ***
 #### 👀 VISTA PREVIA
