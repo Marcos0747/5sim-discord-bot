@@ -49,11 +49,11 @@
 
 * ##### 🧰 Comandos
 
-![image]()
+![image](https://github.com/Marcos0747/5sim-discord-bot/blob/main/data/img_ejemplo/todos_cmds.jpg)
 
 * ##### 📦 Ejemplo de uso
 
-![image]()
+![image](https://github.com/Marcos0747/5sim-discord-bot/blob/main/data/img_ejemplo/vista_previa.jpg)
 
 ***
 #### 👮‍♂️ Responsabilidad
