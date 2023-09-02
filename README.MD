@@ -45,7 +45,7 @@
 
 * ##### 🔑 ApiKey
 
-![image](/blob/main/data/img_ejemplo/api_key.jpg)
+![image](https://github.com/Marcos0747/5sim-discord-bot/blob/main/data/img_ejemplo/api_key.jpg)
 
 * ##### 🧰 Comandos
 
