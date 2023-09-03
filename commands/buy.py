@@ -41,7 +41,7 @@ async def buy(ctx, country=None, operator=None, product=None):
                 return False
 
             embedsms = discord.Embed(
-                title='📬 SMS RECIVIDO 📬',
+                title='📬 SMS RECIBIDO 📬',
                 colour=discord.Color.green()
             )
             embedsms.add_field(name='Order ID', value=r['id'], inline=True)
